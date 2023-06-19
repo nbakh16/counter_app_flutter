@@ -1,16 +1,9 @@
-# ostad_live_test_07
+# Counter App
 
-A new Flutter project.
+### Simple counter app built on Flutter
+##### Ostad Course, Live test, Module 07
 
-## Getting Started
+<img src="https://github.com/nbakh16/counter_app_flutter/assets/38786346/6c3d60a3-72f0-4590-bc6b-f9d1923f8d84" width="250" />
+<img src="https://github.com/nbakh16/counter_app_flutter/assets/38786346/2a3dd769-58e9-44a4-98c4-08909ff9de8e" width="250" />
+<img src="https://github.com/nbakh16/counter_app_flutter/assets/38786346/0a086e4c-7063-4a17-bb03-e6bc1a92f004" width="250" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
